@@ -1,18 +1,7 @@
 # Challenge 01
 
-Have the function `findPoint( $strArr )` read the array of strings stored in  `strArr` which will contain 2
- elements: the first element will represent a list of comma-separated numbers sorted in ascending order,
-the second element will represent a second list of comma-separated numbers (also sorted).
-Your goal is to return a comma-separated string containing the numbers that occur in elements 
-of  `strArr`  in sorted order. If there is no intersection, return the string  `false`.
+![image](https://github.com/user-attachments/assets/7a637813-49d7-4af9-9b45-415ff3848b66)
+
+![image](https://github.com/user-attachments/assets/01d9dbb6-63a0-4c20-8c63-f645e6906176)
 
 
-## Examples
-
-```bash
-Input: array("1, 3, 4, 7, 13", "1, 2, 4, 13, 15") 
-Output: 1,4,13
-
-Input: array("1, 3, 9, 10, 17, 18", "1, 4, 9, 10")
-Output: 1,9,10
-```
