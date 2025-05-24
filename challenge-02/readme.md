@@ -1,23 +1,6 @@
 # Challenge 02
+![image](https://github.com/user-attachments/assets/52d5f7a1-71a5-48c5-a1d2-b4588139b029)
 
-Have the function `noIterate(strArr)` take the array of strings stored in strArr,
-which will contain only two strings, the first parameter being the string N and the second parameter 
-being a string K of some characters, and your goal is to determine the smallest substring of N that contains
-all the characters in K. For example: if strArr is `["aaabaaddae", "aed"]` then the smallest substring 
-of N that contains the characters `a, e, and d` is `"dae"` located at the end of the string.
-So for this example your program should return the string `"dae"`.
+![image](https://github.com/user-attachments/assets/91e641af-5187-471d-af31-5040fbdb5dec)
 
-Another example: if strArr is `["aabdccdbcacd", "aad"]` then the smallest substring of N that contains 
-all of the characters in K is `"aabd"` which is located at the beginning of the string. 
-Both parameters will be strings ranging in length from 1 to 50 characters and all of K's characters will 
-exist somewhere in the string N. Both strings will only contains lowercase alphabetic characters.
-
-## Examples
-
-```bash
-Input: array("ahffaksfajeeubsne", "jefaa")
-Output: aksfaje
-
-Input: array("aaffhkksemckelloe", "fhea")
-Output: affhkkse
-```
+![image](https://github.com/user-attachments/assets/dc22f694-82fa-493f-8f68-938725ce9686)
